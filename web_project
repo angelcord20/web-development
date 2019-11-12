@@ -7,8 +7,8 @@
     <body>
     <h1>would you take the red pill or the blue pill?</h1>
     <p>the red pill will give 1M dollars and the blue pill will allow you to go to the past and fix your errors.</p>    
-    <li><a href="file:///C:/Users/BlackSpiderman/Desktop/option.html">red pill</a></li>
-    <li><a href="file:///C:/Users/BlackSpiderman/Desktop/blue%20pill.html">blue pill</a></li>
+    <li><a href="option.html">red pill</a></li>
+    <li><a href="blue%20pill.html">blue pill</a></li>
         <img src= "Culture_Matrix_RedPillBluePill-1047403844.jpg" alt= "image" height= "300" width= "300">
         </body>
         </html>
